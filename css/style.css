@@ -1,0 +1,58 @@
+.mainbox{
+    background-color: white;
+    width: 800px;
+    margin: 0px auto;
+}
+.menu{
+    background-color: greenyellow;
+}
+
+.leftside{
+    background-color: red;
+    width: 100px;
+    float:left;
+}
+
+.main{
+    background-color: white;
+    width: 600px;
+    float:left;
+}
+
+.rightside{
+    background-color: red;
+    width: 100px;
+    float: left;
+}
+
+.footer{
+    background-color: cadetblue;
+}
+
+.menu{
+    height: 37px;
+    text-align: center;
+}
+
+.menu>ul>li{
+    display:inline;
+    padding:10px 10px 10px 10px;
+    background-color: black;
+    position: relative;
+    top:8px;
+    font-family:Tahoma, serif;
+    font-size: 14px;
+}
+
+.menu>ul>li>a{
+    text-decoration: none;
+    color:#fff;
+}
+
+.mgallery{
+    text-align: center;
+}
+
+.gallery{
+    max-width: 100px;
+}
